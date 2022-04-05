@@ -3,7 +3,7 @@ My name is Jeff Ott and I am a graduate student as the USF Masters in Data Scien
 
 Data translation pipeline <br>
 Libraries Used:
-<img width="509" alt="image" src="https://user-images.githubusercontent.com/60712345/161851380-3bef0ea3-8560-46c0-b48f-fc1c0e26d7c7.png">
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/60712345/161851380-3bef0ea3-8560-46c0-b48f-fc1c0e26d7c7.png"> <br>
 In this project we made some pyfiles to translate to different data types from command line
 
 
