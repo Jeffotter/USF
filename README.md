@@ -3,50 +3,53 @@ My name is Jeff Ott and I am a graduate student as the USF Masters in Data Scien
 
 Data translation pipeline <br>
 Libraries Used:
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/60712345/161851380-3bef0ea3-8560-46c0-b48f-fc1c0e26d7c7.png">
+In this project we made some pyfiles to translate to different data types from command line
 
-Search Engine Implementation
+
+Search Engine Implementation <br>
 Libraries Used:
 
-TFIDF Document Summary 
+TFIDF Document Summary <br>
 Libraries Used:
 
-Recommendation of Articles 
+Recommendation of Articles <br>
 Libraries Used:
 
-Tweet Sentiment Analysis 
+Tweet Sentiment Analysis <br>
 Libraries Used:
 
-Linear Models 
+Linear Models <br>
 Libraries Used:
 
-Naive Bayes
+Naive Bayes<br>
 Libraries Used:
 
-Decison Trees
+Decison Trees<br>
 Libraries Used:
 
-Random Forest
+Random Forest<br>
 Libraries Used:
 
-OO hash table implimentation 
+OO hash table implimentation <br>
 Libraries Used:
 
-Clustering 
+Clustering <br>
 Libraries Used:
 
-Feature Importance 
+Feature Importance <br>
 Libraries Used:
 
-Multi Class Logistic Regression Implementation 
+Multi Class Logistic Regression Implementation <br>
 Libraries Used:
 
-Feature Engineering
+Feature Engineering <br>
 Libraries Used:
 
-ML Metric Understanding
+ML Metric Understanding <br>
 Libraries Used:
 
-A/B Testing Netflix Consultation 
+A/B Testing Netflix Consultation <br>
 Libraries Used:
 
 
