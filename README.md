@@ -17,8 +17,8 @@ Description: In this project we implimented a search engine with both linear sea
 
 
 **TFIDF Document Summary** <br>
-Description: In this project we took XML data (44M uncompressed, 9164 files) and comptued TFIDF score 
-Libraries Used:
+Description: In this project we processed zipped XML data (44M uncompressed, 9164 files), removed the XML and tokenized the remaining strings
+Libraries Used: nltk, xml.etree.cElementTree, sklearn.feature_extraction.text, collection, zipfile, string
 
 Recommendation of Articles <br>
 Libraries Used:
