@@ -71,7 +71,7 @@ Libraries Used:
 ## ML Metric Understanding <br>
 Libraries Used:
 
-## A/B Testing Netflix Consultation <br>
+## A/B Testing hypothetical UI optimization problem inspired by Netflix <br>
 Libraries Used:
 
 ## Gradient Boosted Neural Networks
